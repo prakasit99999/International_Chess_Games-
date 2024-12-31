@@ -1,0 +1,4 @@
+repository "International_Chess_Games 2024-12-31_04-28-16/International_Chess_Games@18968189628509@cloud"
+  path "/"
+    br "/main"
+    co "/main"
